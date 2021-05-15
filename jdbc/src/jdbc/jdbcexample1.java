@@ -13,6 +13,7 @@ public class jdbcexample1 {
 		//2nd time edited
 		//1 st time pushing
 		//third time edited
+		//2 time pushing
 		Driver driver=new com.mysql.cj.jdbc.Driver();
 		DriverManager.registerDriver(driver);
 		String URL="jdbc:mysql://localhost:3306/?user=root";
